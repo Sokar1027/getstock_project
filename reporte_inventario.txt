@@ -1,0 +1,14 @@
+==================================================
+            REPORTE DE INVENTARIO
+==================================================
+
+Cantidad de productos:      50
+Valor total inventario:     $3172600
+Producto mas vendido:       125
+Dia con mas ventas:         5
+--------------------------------------------------
+PRODUCTOS CON BAJO INVENTARIO (menor o igual a la cantidad minima)
+--------------------------------------------------
+Codigo    Nombre                   Categoria           Precio      Cantidad  
+136       Leche en polvo           Lacteos             12500       2         
+103       Jabon                    Aseo                3200        3         

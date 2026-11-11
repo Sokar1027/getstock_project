@@ -1,0 +1,50 @@
+101,Arroz,Alimentos,4500,20,5
+102,Leche,Lacteos,3800,15,4
+103,Jabon,Aseo,3200,8,3
+104,Cafe,Alimentos,9500,12,4
+105,Azucar,Alimentos,3600,25,6
+106,Sal,Alimentos,1800,30,8
+107,Aceite,Alimentos,8200,18,5
+108,Pasta,Alimentos,2900,22,6
+109,Lentejas,Alimentos,4100,14,4
+110,Frijol,Alimentos,4800,16,5
+111,Panela,Alimentos,3200,20,5
+112,Harina,Alimentos,2700,19,5
+113,Avena,Alimentos,3500,10,3
+114,Chocolate,Alimentos,6200,12,4
+115,Atun,Alimentos,5400,17,5
+116,Sardinas,Alimentos,4900,9,3
+117,Maiz,Alimentos,3300,21,6
+118,Arveja,Alimentos,3900,13,4
+119,Garbanzo,Alimentos,4400,11,3
+120,Galletas,Alimentos,3100,24,6
+121,Pan,Alimentos,2500,15,5
+122,Cereal,Alimentos,7800,8,3
+123,Agua con gas,Alimentos,2200,30,8
+124,Agua sin gas,Alimentos,1900,35,10
+125,Gaseosa,Alimentos,3400,26,7
+126,Jugo de naranja,Alimentos,3700,14,4
+127,Queso,Lacteos,8900,10,3
+128,Yogurt,Lacteos,3200,18,5
+129,Mantequilla,Lacteos,5600,9,3
+130,Crema de leche,Lacteos,4200,7,2
+131,Kumis,Lacteos,3400,12,4
+132,Arequipe,Lacteos,5100,6,2
+133,Leche condensada,Lacteos,6300,8,3
+134,Leche deslactosada,Lacteos,4600,11,3
+135,Queso campesino,Lacteos,9200,5,2
+136,Leche en polvo,Lacteos,12500,6,2
+137,Detergente,Aseo,9800,14,4
+138,Shampoo,Aseo,11200,10,3
+139,Jabon en polvo,Aseo,8700,12,4
+140,Suavizante,Aseo,7300,9,3
+141,Cloro,Aseo,3900,16,5
+142,Desinfectante,Aseo,6800,11,4
+143,Papel higienico,Aseo,5200,20,6
+144,Servilletas,Aseo,2100,25,7
+145,Escoba,Aseo,8900,6,2
+146,Trapero,Aseo,9400,5,2
+147,Esponja,Aseo,1500,30,8
+148,Ambientador,Aseo,4700,13,4
+149,Limpiavidrios,Aseo,5300,10,3
+150,Blanqueador,Aseo,4100,15,5
